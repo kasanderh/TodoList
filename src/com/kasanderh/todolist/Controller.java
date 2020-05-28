@@ -212,7 +212,6 @@ public class Controller {
             todoListView.getSelectionModel().select(selectedItem);
         }
     }
-
     @FXML
     public void handleExit() {
         Platform.exit();
